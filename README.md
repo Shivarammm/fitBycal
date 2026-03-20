@@ -31,27 +31,18 @@ Track your daily intake and align it with your goals:
 Take a glimpse at FitByCal’s intuitive interface, designed to simplify calorie tracking, workout management, and progress monitoring—all in one seamless experience.
 
 <p align="center">
-  <img src="assets/dashboards.jpg" width="600"/>
+  <img src="assets/dashboards.jpg" width="45%"/>
+  <img src="assets/foods.jpg" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="assets/foods.jpg" width="600"/>
+  <img src="assets/workouts.jpg" width="45%"/>
+  <img src="assets/progress.jpg" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="assets/workouts.jpg" width="600"/>
-</p>
-
-<p align="center">
-  <img src="assets/progress.jpg" width="600"/>
-</p>
-
-<p align="center">
-  <img src="assets/profile.jpg" width="600"/>
-</p>
-
-<p align="center">
-  <img src="assets/profile1.jpg" width="600"/>
+  <img src="assets/profile.jpg" width="45%"/>
+  <img src="assets/profile1.jpg" width="45%"/>
 </p>
 
 ## ✨ Features
