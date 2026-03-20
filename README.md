@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+👉 https://fitbycal.vercel.app/
+
 # 💪 FitByCal
 
 A smart fitness and nutrition tracking app that helps you achieve your goals through precise calorie and macro management.
