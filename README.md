@@ -32,18 +32,26 @@ Take a glimpse at FitByCal’s intuitive interface, designed to simplify calorie
 
 <p align="center">
   <img src="assets/dashboards.jpg" width="45%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/foods.jpg" width="45%"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="assets/workouts.jpg" width="45%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/progress.jpg" width="45%"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img src="assets/profile.jpg" width="45%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/profile1.jpg" width="45%"/>
 </p>
+
 
 ## ✨ Features
 
